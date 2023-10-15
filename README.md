@@ -10,7 +10,7 @@ This project investigates the use of Power BI to visualize numerical data and id
 
 Many businesses collect large amounts of numerical data, but they may not have the tools or expertise to visualize this data in a way that is easy to understand. This can make it difficult to identify trends and patterns in the data, which can lead to poor decision making.
 
-## Purpose of your project
+## Purpose of the project
 
 The purpose of this project is to develop a method for generating interactive reports that can help business users make more informed decisions. The project will focus on using Power BI to visualize numerical data and identify trends.
 
