@@ -6,6 +6,8 @@ Data visualization is a powerful tool for understanding numerical data. It can h
 
 This project investigates the use of Power BI to visualize numerical data and identify trends. The goal of the project is to develop a method for generating interactive reports that can help business users make more informed decisions.
 
+![A](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/9922042f-08dd-4550-8fbd-2c513e1e8ba9)
+
 ## Statement of the Problem
 
 Business Intelligence is a technology-driven discipline that transforms raw data into meaningful insights to support business decisions. It involves the use of tools, applications, and methodologies to collect, analyse, and present data, helping businesses to improve efficiency and profitability. 
@@ -291,6 +293,9 @@ Interactive Dashboard with help of the UI elements is finally created in powerbi
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/34867cd4-28cd-4916-8570-a0c1536a569e)
 ### Report in the year 2018
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/4f2c3386-4377-4804-b18c-3f493c9f7479)
+
+## Output
+## Conclusion
 
 ## References
 
