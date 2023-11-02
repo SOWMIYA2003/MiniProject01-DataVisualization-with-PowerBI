@@ -301,6 +301,16 @@ Interactive Dashboard with help of the UI elements is finally created in powerbi
 
 ## References
 
+##### Paper
+
+https://www.researchgate.net/publication/321804138_Data_Visualization_for_Business_Intelligence
+
+https://www.researchgate.net/publication/352735133_Data_Visualization_A_Study_of_Tools_and_Challenges
+
+https://www.ijsce.org/wp-content/uploads/papers/v7i3/C3011077317.pdf
+
+##### Books
+
 [1]	Cole Nussbaumer Knaflic “Storytelling with Data” : A Data Visualization Guide for Business Professionals
 
 [2]	Andy Kirk “ Data Visualisation” : A Handbook for Data Driven Design 2019
