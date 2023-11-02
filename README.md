@@ -44,6 +44,8 @@ The expected results of this project are as follows:
 •	A set of interactive reports that can be used by business users to visualize numerical data and identify trends.
 
 The implications of this project are that business users will be able to make more informed decisions based on data visualization. This can lead to improved business performance.
+## Architecture Diagram
+![Picture1](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/90bf6b58-439a-4236-b1d1-b35c0080deb6)
 
 ## Data Collection and Data Cleaning
 Data collection or data gathering is the process of gathering and measuring information on targeted variables in an established system, which then enables one to answer relevant questions and evaluate outcomes.
