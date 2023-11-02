@@ -295,7 +295,10 @@ Interactive Dashboard with help of the UI elements is finally created in powerbi
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/34867cd4-28cd-4916-8570-a0c1536a569e)
 ### Report in the year 2018
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/4f2c3386-4377-4804-b18c-3f493c9f7479)
-
+## Scope of the project
+## Methodology
+## Flow
+## Algorithm Used
 ## Output
 ## Conclusion
 
