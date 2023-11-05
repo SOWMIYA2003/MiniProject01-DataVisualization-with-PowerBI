@@ -16,6 +16,15 @@ In this project , we will be creating a BI dashboard with the help of Microsoft 
 
 ## Purpose of the project
 The purpose of this project is to develop a method for generating interactive reports that can help business users make more informed decisions. The project will focus on using Power BI to visualize numerical data and identify trends.
+
+Why PowerBI ?
+ 
+1. Interactive Report Generation.
+2. Updation of data.
+3. Accessible among the organization.
+4. Provides Mobile Interface.
+5. Ease of Understanding
+
 ## Proposed Methodology
 
 The proposed methodology for this project is as follows:
