@@ -14,7 +14,6 @@ Business Intelligence is a technology-driven discipline that transforms raw data
 
 In this project , we will be creating a BI dashboard with the help of Microsoft PowerBI to analyze the Raw data from the business firm and identify patterns and trends. This helps the concerned people to deal with their product resources and enhance the firm’s performance in the market.
 
-
 ## Purpose of the project
 The purpose of this project is to develop a method for generating interactive reports that can help business users make more informed decisions. The project will focus on using Power BI to visualize numerical data and identify trends.
 ## Proposed Methodology
@@ -305,8 +304,22 @@ Interactive Dashboard with help of the UI elements is finally created in powerbi
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/34867cd4-28cd-4916-8570-a0c1536a569e)
 ### Report in the year 2018
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/4f2c3386-4377-4804-b18c-3f493c9f7479)
+## Testing 
+![a](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/73b682e8-35b6-4649-9f3c-4b4acde4d516)
 
+The above image shows the revenue in the month March in the year 2018.In the left most side we have the image of our interactive dashboard and in the right we have result of python code.
+We infer that , Both the values are the same from the above picture , thus verifying that our report is correct.
+### Updating 
+Let's say that some transaction have been entered incorrectly and thus there is a need to change it in the database.And therefore the organization who deals with the database management makes some changes regarding the sales amount in the database. Example : Let's assume that there is a change in sales amount in 569th transaction .
+![b](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/e495ba2b-eaf6-47d1-8dbc-3844527fc13a)
 
+Initially the sales amount in the 569th transaction is Rs. 6713 and lets say the updation amount to be 900000. Thus using SQL query the database management team will change it in the database.
+
+![c](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/af1b7996-a5a4-4af7-b518-95a46f9bcb59)
+
+After the updation in the database , we come to the powerbi dashboard and refresh the dashboard , Now the sales amount has been changed and this will eventually change the revenue for the year 2018 in the month March and even the overall revenue will be changed.
+
+![d](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/73a791d5-ed45-4b3a-b4ba-ce012fa12070)
 ## Conclusion
 The significance of the project is that it provides a method for generating interactive reports that can be used to visualize numerical data and identify patterns and trends. This can help business users make more informed decisions
 ![Picture2](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/4bbd1fef-ba02-4d54-8dfc-15a03ae2aa17)
