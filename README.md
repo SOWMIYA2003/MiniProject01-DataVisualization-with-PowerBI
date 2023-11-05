@@ -16,9 +16,7 @@ In this project , we will be creating a BI dashboard with the help of Microsoft 
 
 
 ## Purpose of the project
-
 The purpose of this project is to develop a method for generating interactive reports that can help business users make more informed decisions. The project will focus on using Power BI to visualize numerical data and identify trends.
-
 ## Proposed Methodology
 
 The proposed methodology for this project is as follows:
@@ -34,6 +32,8 @@ The proposed methodology for this project is as follows:
 5.	Refine the reports based on feedback from business users.
    
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/aff95a48-2a3e-4802-87ae-8127568cc965)
+## Flow Diagram
+![Q](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/e63cf32a-616f-4a77-9fdd-58a050562966)
 
 ## Expected results and its Implications
 
@@ -221,8 +221,18 @@ odata = data_3[(data_3['month'] == 3) & (data['year'] == 2018)]
 odata
 
 ```
+### Output
+### Dataset - Customer 
+![1](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/3f59697b-fc27-44ed-aca7-2a5086c7b699)
+### Dataset - Date
+![2](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/c28e6d7d-1664-4447-be0d-7ba5505d3473)
+### Dataset - Market 
+![3](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/2f9c88d8-60ba-4495-ac0f-4130e5574240)
+### Dataset - Products 
+![4](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/d74e2a23-be81-4ee3-8d0e-645e9abeb4b7)
+### Dataset - Transaction
+![5](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/456a5c9d-e459-4a52-a899-e2426e5a2da7)
 ## Nominal Data
-
 Using the above code of EDA , we will be obtained with the numerical data. These numerical data is useful so as to compare the output after visualization.
 ### Total Revenue and Sales Quantity
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/f8f59b5e-17f1-41d4-9789-59bd4c1668ef)
@@ -295,12 +305,11 @@ Interactive Dashboard with help of the UI elements is finally created in powerbi
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/34867cd4-28cd-4916-8570-a0c1536a569e)
 ### Report in the year 2018
 ![image](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/4f2c3386-4377-4804-b18c-3f493c9f7479)
-## Scope of the project
-## Methodology
-## Flow
-## Algorithm Used
-## Output
+
+
 ## Conclusion
+The significance of the project is that it provides a method for generating interactive reports that can be used to visualize numerical data and identify patterns and trends. This can help business users make more informed decisions
+![Picture2](https://github.com/SOWMIYA2003/MiniProject01-DataVisualization-with-PowerBI/assets/93427443/4bbd1fef-ba02-4d54-8dfc-15a03ae2aa17)
 
 ## References
 
